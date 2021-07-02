@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @nerinaserra
+- 👩🏻‍💻 I’m a Full-Stack JavaScript developer
